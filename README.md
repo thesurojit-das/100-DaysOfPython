@@ -3,4 +3,7 @@
 
 <ul type="none">
   <li> <a href="https://github.com/thesurojit-das/100-DaysOfPython/blob/main/Day%201.py">Day 1</a></li>
+    <li> <a href=" https://github.com/thesurojit-das/100-DaysOfPython/blob/main/Day%202.py">Day 2</a></li>
+  
+ 
 </ul>
